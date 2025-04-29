@@ -7,6 +7,11 @@ export const FooterContainer = styled.footer`
   padding: 20px 0;
   margin-top: auto;
   border-radius: 25px;
+  position: fixed;
+  width: 99.2%;
+  bottom: 0;
+  margin-bottom: 5px;
+
 `;
 
 export const FooterContent = styled.div`
