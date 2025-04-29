@@ -1,6 +1,6 @@
 import React from 'react'
 import { FooterContainer, FooterContent } from '../styles/FooterStyled'
-import logoCollabSabaraMoskitto from '../assets/collabLogo.png'
+// import logoCollabSabaraMoskitto from '../assets/collabLogo.png'
 
 const Footer = () => {
   return (

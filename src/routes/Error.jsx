@@ -8,7 +8,7 @@ const Error = () => {
         <img src={img404} alt="Não encontrado!" />
       </div>
       
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'green', fontFamily: 'fantasy', fontSize: 'large', marginBottom: '25vh' }}>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', color: 'green', fontFamily: 'fantasy', fontSize: 'large', marginBottom: '20vh' }}>
         <h1>404 - Página não encontrada!</h1>
       </div>
     </div>
