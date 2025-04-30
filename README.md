@@ -17,3 +17,15 @@ Trabalho para o Hospital Infantil Sabará
 - NodeJS (servidor)
 - HTML5
 - CSS 3
+
+## Como Rodar o Projeto?
+Faça o download do projeto, abra-o em sua IDE de preferência e faça o seguinte:
+1. Instale o npm no projeto:
+    
+    ```npm install```
+1. Instale as dependências do projeto:
+
+    ```npm install react-router-dom``` e ```npm install styled-components```
+2. Abrir o servidor local:
+    
+    ```npm run dev```
